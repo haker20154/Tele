@@ -271,16 +271,13 @@ function create_config( )
     "lock_edit",
     "lock_cmds"
     },
-    sudo_users = {219201071,248974584,173061880,0,tonumber(our_id)},--Sudo users
+    sudo_users = {211752618},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[TeleDiamond v1
+    about_text = [[TeleAgent v1
 An advanced administration bot based on TG-CLI written in Lua
 
-https://github.com/Mohammadrezar/telediamond.git
+https://github.com/haker20154/Tele
 
-Admins
-@Mrr619
-@antispamandhack
 
 ]],
     help_text_realm = [[
